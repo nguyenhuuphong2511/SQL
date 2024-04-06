@@ -1,0 +1,183 @@
+D:\Mr. Phong\06 SPKT\9. SQL\QuanLyThuVien\QuanLyThuVien\bin\Debug\net8.0-windows\QuanLyThuVien.exe
+D:\Mr. Phong\06 SPKT\9. SQL\QuanLyThuVien\QuanLyThuVien\bin\Debug\net8.0-windows\QuanLyThuVien.deps.json
+D:\Mr. Phong\06 SPKT\9. SQL\QuanLyThuVien\QuanLyThuVien\bin\Debug\net8.0-windows\QuanLyThuVien.runtimeconfig.json
+D:\Mr. Phong\06 SPKT\9. SQL\QuanLyThuVien\QuanLyThuVien\bin\Debug\net8.0-windows\QuanLyThuVien.dll
+D:\Mr. Phong\06 SPKT\9. SQL\QuanLyThuVien\QuanLyThuVien\bin\Debug\net8.0-windows\QuanLyThuVien.pdb
+D:\Mr. Phong\06 SPKT\9. SQL\QuanLyThuVien\QuanLyThuVien\obj\Debug\net8.0-windows\QuanLyThuVien.LoginFrom.resources
+D:\Mr. Phong\06 SPKT\9. SQL\QuanLyThuVien\QuanLyThuVien\obj\Debug\net8.0-windows\QuanLyThuVien.Properties.Resources.resources
+D:\Mr. Phong\06 SPKT\9. SQL\QuanLyThuVien\QuanLyThuVien\obj\Debug\net8.0-windows\QuanLyThuVien.csproj.GenerateResource.cache
+D:\Mr. Phong\06 SPKT\9. SQL\QuanLyThuVien\QuanLyThuVien\obj\Debug\net8.0-windows\QuanLyThuVien.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mr. Phong\06 SPKT\9. SQL\QuanLyThuVien\QuanLyThuVien\obj\Debug\net8.0-windows\QuanLyThuVien.AssemblyInfoInputs.cache
+D:\Mr. Phong\06 SPKT\9. SQL\QuanLyThuVien\QuanLyThuVien\obj\Debug\net8.0-windows\QuanLyThuVien.AssemblyInfo.cs
+D:\Mr. Phong\06 SPKT\9. SQL\QuanLyThuVien\QuanLyThuVien\obj\Debug\net8.0-windows\QuanLyThuVien.csproj.CoreCompileInputs.cache
+D:\Mr. Phong\06 SPKT\9. SQL\QuanLyThuVien\QuanLyThuVien\obj\Debug\net8.0-windows\QuanLyThuVien.dll
+D:\Mr. Phong\06 SPKT\9. SQL\QuanLyThuVien\QuanLyThuVien\obj\Debug\net8.0-windows\refint\QuanLyThuVien.dll
+D:\Mr. Phong\06 SPKT\9. SQL\QuanLyThuVien\QuanLyThuVien\obj\Debug\net8.0-windows\QuanLyThuVien.pdb
+D:\Mr. Phong\06 SPKT\9. SQL\QuanLyThuVien\QuanLyThuVien\obj\Debug\net8.0-windows\QuanLyThuVien.genruntimeconfig.cache
+D:\Mr. Phong\06 SPKT\9. SQL\QuanLyThuVien\QuanLyThuVien\obj\Debug\net8.0-windows\ref\QuanLyThuVien.dll
+D:\Mr. Phong\06 SPKT\9. SQL\QuanLyThuVien\QuanLyThuVien\obj\Debug\net8.0-windows\QuanLyThuVien.MenuForm.resources
+D:\Mr. Phong\06 SPKT\9. SQL\QuanLyThuVien\QuanLyThuVien\obj\Debug\net8.0-windows\QuanLyThuVien.SachForm.resources
+D:\Mr. Phong\06 SPKT\9. SQL\QuanLyThuVien\QuanLyThuVien\obj\Debug\net8.0-windows\QuanLyThuVien.LoaiSachFrom.resources
+D:\Mr. Phong\06 SPKT\9. SQL\QuanLyThuVien\QuanLyThuVien\obj\Debug\net8.0-windows\QuanLyThuVien.TacGiaForm.resources
+D:\Mr. Phong\06 SPKT\9. SQL\QuanLyThuVien\QuanLyThuVien\obj\Debug\net8.0-windows\QuanLyThuVien.PhieuMuonForm.resources
+D:\Mr. Phong\06 SPKT\9. SQL\QuanLyThuVien\QuanLyThuVien\obj\Debug\net8.0-windows\QuanLyThuVien.ChiTietPMForm.resources
+D:\Mr. Phong\06 SPKT\9. SQL\QuanLyThuVien\QuanLyThuVien\obj\Debug\net8.0-windows\QuanLyThuVien.QTVForm.resources
+D:\Mr. Phong\06 SPKT\9. SQL\QuanLyThuVien\QuanLyThuVien\obj\Debug\net8.0-windows\QuanLyThuVien.QuaHanForm.resources
+D:\Mr. Phong\06 SPKT\9. SQL\QuanLyThuVien\QuanLyThuVien\obj\Debug\net8.0-windows\QuanLyThuVien.TheTVForm.resources
+C:\Users\Admin\Downloads\QuanLyThuVien\QuanLyThuVien\bin\Debug\net8.0-windows\QuanLyThuVien.exe
+C:\Users\Admin\Downloads\QuanLyThuVien\QuanLyThuVien\bin\Debug\net8.0-windows\QuanLyThuVien.deps.json
+C:\Users\Admin\Downloads\QuanLyThuVien\QuanLyThuVien\bin\Debug\net8.0-windows\QuanLyThuVien.runtimeconfig.json
+C:\Users\Admin\Downloads\QuanLyThuVien\QuanLyThuVien\bin\Debug\net8.0-windows\QuanLyThuVien.dll
+C:\Users\Admin\Downloads\QuanLyThuVien\QuanLyThuVien\bin\Debug\net8.0-windows\QuanLyThuVien.pdb
+C:\Users\Admin\Downloads\QuanLyThuVien\QuanLyThuVien\obj\Debug\net8.0-windows\QuanLyThuVien.ChiTietPMForm.resources
+C:\Users\Admin\Downloads\QuanLyThuVien\QuanLyThuVien\obj\Debug\net8.0-windows\QuanLyThuVien.LoaiSachFrom.resources
+C:\Users\Admin\Downloads\QuanLyThuVien\QuanLyThuVien\obj\Debug\net8.0-windows\QuanLyThuVien.LoginFrom.resources
+C:\Users\Admin\Downloads\QuanLyThuVien\QuanLyThuVien\obj\Debug\net8.0-windows\QuanLyThuVien.MenuForm.resources
+C:\Users\Admin\Downloads\QuanLyThuVien\QuanLyThuVien\obj\Debug\net8.0-windows\QuanLyThuVien.PhieuMuonForm.resources
+C:\Users\Admin\Downloads\QuanLyThuVien\QuanLyThuVien\obj\Debug\net8.0-windows\QuanLyThuVien.Properties.Resources.resources
+C:\Users\Admin\Downloads\QuanLyThuVien\QuanLyThuVien\obj\Debug\net8.0-windows\QuanLyThuVien.QTVForm.resources
+C:\Users\Admin\Downloads\QuanLyThuVien\QuanLyThuVien\obj\Debug\net8.0-windows\QuanLyThuVien.QuaHanForm.resources
+C:\Users\Admin\Downloads\QuanLyThuVien\QuanLyThuVien\obj\Debug\net8.0-windows\QuanLyThuVien.SachForm.resources
+C:\Users\Admin\Downloads\QuanLyThuVien\QuanLyThuVien\obj\Debug\net8.0-windows\QuanLyThuVien.TacGiaForm.resources
+C:\Users\Admin\Downloads\QuanLyThuVien\QuanLyThuVien\obj\Debug\net8.0-windows\QuanLyThuVien.TheTVForm.resources
+C:\Users\Admin\Downloads\QuanLyThuVien\QuanLyThuVien\obj\Debug\net8.0-windows\QuanLyThuVien.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\QuanLyThuVien\QuanLyThuVien\obj\Debug\net8.0-windows\QuanLyThuVien.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\QuanLyThuVien\QuanLyThuVien\obj\Debug\net8.0-windows\QuanLyThuVien.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\QuanLyThuVien\QuanLyThuVien\obj\Debug\net8.0-windows\QuanLyThuVien.AssemblyInfo.cs
+C:\Users\Admin\Downloads\QuanLyThuVien\QuanLyThuVien\obj\Debug\net8.0-windows\QuanLyThuVien.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\QuanLyThuVien\QuanLyThuVien\obj\Debug\net8.0-windows\QuanLyThuVien.dll
+C:\Users\Admin\Downloads\QuanLyThuVien\QuanLyThuVien\obj\Debug\net8.0-windows\refint\QuanLyThuVien.dll
+C:\Users\Admin\Downloads\QuanLyThuVien\QuanLyThuVien\obj\Debug\net8.0-windows\QuanLyThuVien.pdb
+C:\Users\Admin\Downloads\QuanLyThuVien\QuanLyThuVien\obj\Debug\net8.0-windows\QuanLyThuVien.genruntimeconfig.cache
+C:\Users\Admin\Downloads\QuanLyThuVien\QuanLyThuVien\obj\Debug\net8.0-windows\ref\QuanLyThuVien.dll
+C:\Users\Admin\Downloads\QuanLyThuVien\QuanLyThuVien\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Admin\Downloads\QuanLyThuVien\QuanLyThuVien\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Admin\Downloads\QuanLyThuVien\QuanLyThuVien\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Admin\Downloads\QuanLyThuVien\QuanLyThuVien\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Admin\Downloads\QuanLyThuVien\QuanLyThuVien\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\Downloads\QuanLyThuVien\QuanLyThuVien\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\Downloads\QuanLyThuVien\QuanLyThuVien\obj\Debug\net8.0-windows\QuanLyThuVien.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\QuanLyThuVien\QuanLyThuVien\obj\Debug\net8.0-windows\QuanLyThuVien.csproj.CopyComplete
+C:\Users\Admin\Downloads\QuanLyThuVien\QuanLyThuVien\bin\Debug\net8.0-windows\FontAwesome.Sharp.dll
+C:\Users\Admin\Downloads\QuanLyThuVien\QuanLyThuVien\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\Admin\Downloads\QuanLyThuVien\QuanLyThuVien\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\Admin\Downloads\QuanLyThuVien\QuanLyThuVien\bin\Debug\net8.0-windows\Castle.Core.dll
+C:\Users\Admin\Downloads\QuanLyThuVien\QuanLyThuVien\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\Downloads\QuanLyThuVien\QuanLyThuVien\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Downloads\QuanLyThuVien\QuanLyThuVien\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Admin\Downloads\QuanLyThuVien\QuanLyThuVien\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Admin\Downloads\QuanLyThuVien\QuanLyThuVien\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Admin\Downloads\QuanLyThuVien\QuanLyThuVien\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\Downloads\QuanLyThuVien\QuanLyThuVien\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\Downloads\QuanLyThuVien\QuanLyThuVien\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\Downloads\QuanLyThuVien\QuanLyThuVien\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Admin\Downloads\QuanLyThuVien\QuanLyThuVien\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\Downloads\QuanLyThuVien\QuanLyThuVien\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Admin\Downloads\QuanLyThuVien\QuanLyThuVien\bin\Debug\net8.0-windows\Mindbox.Data.Linq.dll
+C:\Users\Admin\Downloads\QuanLyThuVien\QuanLyThuVien\bin\Debug\net8.0-windows\Mindbox.Expressions.dll
+C:\Users\Admin\Downloads\QuanLyThuVien\QuanLyThuVien\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\Downloads\QuanLyThuVien\QuanLyThuVien\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\Admin\Downloads\QuanLyThuVien\QuanLyThuVien\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\Admin\Downloads\QuanLyThuVien\QuanLyThuVien\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Downloads\QuanLyThuVien\QuanLyThuVien\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Downloads\QuanLyThuVien\QuanLyThuVien\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Downloads\QuanLyThuVien\QuanLyThuVien\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Downloads\QuanLyThuVien\QuanLyThuVien\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Downloads\QuanLyThuVien\QuanLyThuVien\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Downloads\QuanLyThuVien\QuanLyThuVien\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Phong\Downloads\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\net8.0-windows\QuanLyThuVien.exe
+C:\Users\Phong\Downloads\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\net8.0-windows\QuanLyThuVien.deps.json
+C:\Users\Phong\Downloads\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\net8.0-windows\QuanLyThuVien.runtimeconfig.json
+C:\Users\Phong\Downloads\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\net8.0-windows\QuanLyThuVien.dll
+C:\Users\Phong\Downloads\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\net8.0-windows\QuanLyThuVien.pdb
+C:\Users\Phong\Downloads\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\Phong\Downloads\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\Phong\Downloads\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\net8.0-windows\Castle.Core.dll
+C:\Users\Phong\Downloads\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\net8.0-windows\FontAwesome.Sharp.dll
+C:\Users\Phong\Downloads\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Phong\Downloads\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Phong\Downloads\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Phong\Downloads\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Phong\Downloads\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Phong\Downloads\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Phong\Downloads\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Phong\Downloads\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Phong\Downloads\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Phong\Downloads\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Phong\Downloads\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Phong\Downloads\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\net8.0-windows\Mindbox.Data.Linq.dll
+C:\Users\Phong\Downloads\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\net8.0-windows\Mindbox.Expressions.dll
+C:\Users\Phong\Downloads\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Phong\Downloads\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Phong\Downloads\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\Phong\Downloads\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\Phong\Downloads\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Phong\Downloads\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Phong\Downloads\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Phong\Downloads\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Phong\Downloads\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Phong\Downloads\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Phong\Downloads\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Phong\Downloads\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Phong\Downloads\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Phong\Downloads\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Phong\Downloads\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Phong\Downloads\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Phong\Downloads\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\net8.0-windows\QuanLyThuVien.csproj.AssemblyReference.cache
+C:\Users\Phong\Downloads\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\net8.0-windows\QuanLyThuVien.ChiTietPMForm.resources
+C:\Users\Phong\Downloads\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\net8.0-windows\QuanLyThuVien.LoaiSachFrom.resources
+C:\Users\Phong\Downloads\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\net8.0-windows\QuanLyThuVien.LoginFrom.resources
+C:\Users\Phong\Downloads\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\net8.0-windows\QuanLyThuVien.MenuForm.resources
+C:\Users\Phong\Downloads\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\net8.0-windows\QuanLyThuVien.PhieuMuonForm.resources
+C:\Users\Phong\Downloads\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\net8.0-windows\QuanLyThuVien.Properties.Resources.resources
+C:\Users\Phong\Downloads\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\net8.0-windows\QuanLyThuVien.QTVForm.resources
+C:\Users\Phong\Downloads\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\net8.0-windows\QuanLyThuVien.QuaHanForm.resources
+C:\Users\Phong\Downloads\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\net8.0-windows\QuanLyThuVien.SachForm.resources
+C:\Users\Phong\Downloads\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\net8.0-windows\QuanLyThuVien.TacGiaForm.resources
+C:\Users\Phong\Downloads\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\net8.0-windows\QuanLyThuVien.TheTVForm.resources
+C:\Users\Phong\Downloads\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\net8.0-windows\QuanLyThuVien.csproj.GenerateResource.cache
+C:\Users\Phong\Downloads\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\net8.0-windows\QuanLyThuVien.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Phong\Downloads\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\net8.0-windows\QuanLyThuVien.AssemblyInfoInputs.cache
+C:\Users\Phong\Downloads\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\net8.0-windows\QuanLyThuVien.AssemblyInfo.cs
+C:\Users\Phong\Downloads\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\net8.0-windows\QuanLyThuVien.csproj.CoreCompileInputs.cache
+C:\Users\Phong\Downloads\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\net8.0-windows\QuanLyTh.B5137F7B.Up2Date
+C:\Users\Phong\Downloads\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\net8.0-windows\QuanLyThuVien.dll
+C:\Users\Phong\Downloads\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\net8.0-windows\refint\QuanLyThuVien.dll
+C:\Users\Phong\Downloads\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\net8.0-windows\QuanLyThuVien.pdb
+C:\Users\Phong\Downloads\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\net8.0-windows\QuanLyThuVien.genruntimeconfig.cache
+C:\Users\Phong\Downloads\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\net8.0-windows\ref\QuanLyThuVien.dll
+D:\Mr. Phong\06 SPKT\9. SQL\QuanLyThuVien\QuanLyThuVien\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\Mr. Phong\06 SPKT\9. SQL\QuanLyThuVien\QuanLyThuVien\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\Mr. Phong\06 SPKT\9. SQL\QuanLyThuVien\QuanLyThuVien\bin\Debug\net8.0-windows\Castle.Core.dll
+D:\Mr. Phong\06 SPKT\9. SQL\QuanLyThuVien\QuanLyThuVien\bin\Debug\net8.0-windows\FontAwesome.Sharp.dll
+D:\Mr. Phong\06 SPKT\9. SQL\QuanLyThuVien\QuanLyThuVien\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Mr. Phong\06 SPKT\9. SQL\QuanLyThuVien\QuanLyThuVien\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\Mr. Phong\06 SPKT\9. SQL\QuanLyThuVien\QuanLyThuVien\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\Mr. Phong\06 SPKT\9. SQL\QuanLyThuVien\QuanLyThuVien\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Mr. Phong\06 SPKT\9. SQL\QuanLyThuVien\QuanLyThuVien\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Mr. Phong\06 SPKT\9. SQL\QuanLyThuVien\QuanLyThuVien\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Mr. Phong\06 SPKT\9. SQL\QuanLyThuVien\QuanLyThuVien\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Mr. Phong\06 SPKT\9. SQL\QuanLyThuVien\QuanLyThuVien\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Mr. Phong\06 SPKT\9. SQL\QuanLyThuVien\QuanLyThuVien\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Mr. Phong\06 SPKT\9. SQL\QuanLyThuVien\QuanLyThuVien\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Mr. Phong\06 SPKT\9. SQL\QuanLyThuVien\QuanLyThuVien\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\Mr. Phong\06 SPKT\9. SQL\QuanLyThuVien\QuanLyThuVien\bin\Debug\net8.0-windows\Mindbox.Data.Linq.dll
+D:\Mr. Phong\06 SPKT\9. SQL\QuanLyThuVien\QuanLyThuVien\bin\Debug\net8.0-windows\Mindbox.Expressions.dll
+D:\Mr. Phong\06 SPKT\9. SQL\QuanLyThuVien\QuanLyThuVien\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\Mr. Phong\06 SPKT\9. SQL\QuanLyThuVien\QuanLyThuVien\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Mr. Phong\06 SPKT\9. SQL\QuanLyThuVien\QuanLyThuVien\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\Mr. Phong\06 SPKT\9. SQL\QuanLyThuVien\QuanLyThuVien\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\Mr. Phong\06 SPKT\9. SQL\QuanLyThuVien\QuanLyThuVien\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Mr. Phong\06 SPKT\9. SQL\QuanLyThuVien\QuanLyThuVien\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Mr. Phong\06 SPKT\9. SQL\QuanLyThuVien\QuanLyThuVien\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Mr. Phong\06 SPKT\9. SQL\QuanLyThuVien\QuanLyThuVien\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Mr. Phong\06 SPKT\9. SQL\QuanLyThuVien\QuanLyThuVien\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Mr. Phong\06 SPKT\9. SQL\QuanLyThuVien\QuanLyThuVien\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Mr. Phong\06 SPKT\9. SQL\QuanLyThuVien\QuanLyThuVien\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Mr. Phong\06 SPKT\9. SQL\QuanLyThuVien\QuanLyThuVien\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\Mr. Phong\06 SPKT\9. SQL\QuanLyThuVien\QuanLyThuVien\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\Mr. Phong\06 SPKT\9. SQL\QuanLyThuVien\QuanLyThuVien\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Mr. Phong\06 SPKT\9. SQL\QuanLyThuVien\QuanLyThuVien\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Mr. Phong\06 SPKT\9. SQL\QuanLyThuVien\QuanLyThuVien\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Mr. Phong\06 SPKT\9. SQL\QuanLyThuVien\QuanLyThuVien\obj\Debug\net8.0-windows\QuanLyThuVien.csproj.AssemblyReference.cache
+D:\Mr. Phong\06 SPKT\9. SQL\QuanLyThuVien\QuanLyThuVien\obj\Debug\net8.0-windows\QuanLyTh.B5137F7B.Up2Date
