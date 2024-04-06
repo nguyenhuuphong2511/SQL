@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Mr. Phong\\06 SPKT\\9. SQL\\QuanLyThuVien\\QuanLyThuVien\\QuanLyThuVien.csproj": {}
+    "D:\\Mr. Phong\\06 SPKT\\9. SQL\\SQL\\QuanLyThuVien\\QuanLyThuVien\\QuanLyThuVien.csproj": {}
   },
   "projects": {
-    "D:\\Mr. Phong\\06 SPKT\\9. SQL\\QuanLyThuVien\\QuanLyThuVien\\QuanLyThuVien.csproj": {
+    "D:\\Mr. Phong\\06 SPKT\\9. SQL\\SQL\\QuanLyThuVien\\QuanLyThuVien\\QuanLyThuVien.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Mr. Phong\\06 SPKT\\9. SQL\\QuanLyThuVien\\QuanLyThuVien\\QuanLyThuVien.csproj",
+        "projectUniqueName": "D:\\Mr. Phong\\06 SPKT\\9. SQL\\SQL\\QuanLyThuVien\\QuanLyThuVien\\QuanLyThuVien.csproj",
         "projectName": "QuanLyThuVien",
-        "projectPath": "D:\\Mr. Phong\\06 SPKT\\9. SQL\\QuanLyThuVien\\QuanLyThuVien\\QuanLyThuVien.csproj",
+        "projectPath": "D:\\Mr. Phong\\06 SPKT\\9. SQL\\SQL\\QuanLyThuVien\\QuanLyThuVien\\QuanLyThuVien.csproj",
         "packagesPath": "C:\\Users\\Phong\\.nuget\\packages\\",
-        "outputPath": "D:\\Mr. Phong\\06 SPKT\\9. SQL\\QuanLyThuVien\\QuanLyThuVien\\obj\\",
+        "outputPath": "D:\\Mr. Phong\\06 SPKT\\9. SQL\\SQL\\QuanLyThuVien\\QuanLyThuVien\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Phong\\AppData\\Roaming\\NuGet\\NuGet.Config",

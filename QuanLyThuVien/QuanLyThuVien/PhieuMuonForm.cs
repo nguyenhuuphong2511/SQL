@@ -58,7 +58,7 @@ namespace QuanLyThuVien
         {
            
             string ValueToSend = txtMaPM.Text;
-            ChiTietPMForm chiTietPMForm = new(tabControl1.SelectTab(1));
+            ChiTietPMForm chiTietPMForm = new ChiTietPMForm();
             chiTietPMForm.Show();
         }
     }
